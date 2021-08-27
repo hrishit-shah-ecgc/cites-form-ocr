@@ -27,3 +27,5 @@ This will open a localhost:5000 in the browser window
 
 # Azure
 This program relies on the Microsoft Azure form recognizer service to be able to perform OCR and extract key value pairs. With each country's permit there needs to be an (endpoint and key) to access Azure Cognitive Services as well as, a model ID which represents the model of the specific country's permits.
+
+Further documentation can be found: https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/
